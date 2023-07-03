@@ -11,8 +11,8 @@ function App() {
       <div>
         <Header />
         <Routes>
-          <Route path="/Workout" element={<Workout />} />
-          <Route path="/Nutrition" element={<Nutrition />} />
+          <Route path="/fitmeter-v1/Workout" element={<Workout />} />
+          <Route path="/fitmeter-v1/Nutrition" element={<Nutrition />} />
         </Routes>
       </div>
     </Router>
