@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fitmeter-v1/static/css/main.edcb9971.css",
-    "main.js": "/fitmeter-v1/static/js/main.67068635.js",
+    "main.js": "/fitmeter-v1/static/js/main.866ac06a.js",
     "static/js/787.6937a461.chunk.js": "/fitmeter-v1/static/js/787.6937a461.chunk.js",
     "index.html": "/fitmeter-v1/index.html",
     "main.edcb9971.css.map": "/fitmeter-v1/static/css/main.edcb9971.css.map",
-    "main.67068635.js.map": "/fitmeter-v1/static/js/main.67068635.js.map",
+    "main.866ac06a.js.map": "/fitmeter-v1/static/js/main.866ac06a.js.map",
     "787.6937a461.chunk.js.map": "/fitmeter-v1/static/js/787.6937a461.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edcb9971.css",
-    "static/js/main.67068635.js"
+    "static/js/main.866ac06a.js"
   ]
 }
