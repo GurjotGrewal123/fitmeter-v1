@@ -9,9 +9,9 @@ const Header = () => {
             <a class="navbar-logo" href="/">Logo</a>
             <div class="navbar-pages">
                 <ul class="navbar-links">
-                    <li><a href="/Progress">Progress</a></li>
-                    <li><a href="/Nutrition">Nutrition</a></li>
-                    <li><a href="Workout">Workout</a></li>
+                    <li><a href="/fitmeter-v1/Progress">Progress</a></li>
+                    <li><a href="/fitmeter-v1/Nutrition">Nutrition</a></li>
+                    <li><a href="/fitmeter-v1/Workout">Workout</a></li>
                 </ul>
             </div>
         </div>
