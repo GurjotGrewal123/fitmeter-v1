@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Open);
+@import url(https://fonts.googleapis.com/icon?family=Material);
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.row {
+    justify-content: center;
+}
+
+.row-inputs {
+    padding-left: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.input-group {
+    padding: 10px;
+    display: flex;
+}
+
+.inputs {
+    padding-left: 5px;
+}
+
+.inputs input {
+    padding-left: 5px;
+    outline: 0;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+}
+
+.add-btn {
+    justify-content: center;
+    display: flex;
+    padding-left: 20px;
+    padding-top: 11px;
+    padding-bottom: 10px;
+}
+
+.add-btn button {
+    border: none;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 200;
+    background-color: #222;
+    color: #fff;
+    letter-spacing: 1px;
+    border-radius: 3px;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
